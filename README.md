@@ -13,8 +13,8 @@ CSS
 To view my portfolio, clone this repository and open the index.html file in your web browser.
 
 ##bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/VigneshKumar2711/My-Portfolio.git
+cd My-Portfolio
 open index.html
 
 ##Contributing
