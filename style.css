@@ -10,7 +10,7 @@ body{
     padding:50px;  
 }
 .section-one{
-    background-color:black;
+    background-color:lightblue;
     color:white;
     padding:20px;
 }
@@ -58,18 +58,14 @@ body{
     color:black;
     padding:20px;
     display:block;
-    height:200px;
     border-radius:10px;
-    vertical-align:top;
 }
 .section-four{
-    background-color:rgb(34,178,171);
+    background-color:rgb(34, 178, 171);
     color:black;
     padding:20px;
-    display:block;
-    height:200px;
-    border-radius:10px;
-    vertical-align:top;
+    display:block;;
+    border-radius:10px;  
 }
 .box-image{
     border:5px solid palevioletred;
